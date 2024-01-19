@@ -1,0 +1,23 @@
+{
+    "name":"Sei Beens",
+    "description":"Sei Beens is key to create comunity ecosystem in sei with jpg and png pixels",
+    "twitter":"https://x.com/seibeens?t=Un-I12DkEAp378ueIVZjVQ&s=09",
+    "discord":"https://discord.gg/wh4YXfFE",
+    "rpc":"https://rpc.wallet.pacific-1.sei.io",
+    "network":"pacific-1", 
+    "collection_address":"sei1jfs2pcfcc7s24gvu92r79pwqm26s663k2gt78v6wjg3c4tt5e5yskg2qnr", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name": "whitelist",
+            "allowlist": [
+                "sei1rs0luhxdpvyd5vg42tzv7sd3dd9c04g0ulhs2v",  
+                "sei1j0nwkkanf3secc5wsyvnuue4mhg6y8evvn3p0z",
+                "sei1chcxgdstah8puyw595lx7p9jd9442uhp5p3hsf" 
+            ]
+          },
+        {
+            "name":"public"
+        }
+    ]
+}
